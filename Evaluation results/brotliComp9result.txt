@@ -1,0 +1,68 @@
+[Time measured SUM up: 84521.44885063171 ms]
+[Time measured Mean: 2817.3816283543906 ms]
+[Process return code xray.: 0]
+
+[Time measured SUM up: 70550.98342895508 ms]
+[Time measured Mean: 2351.699447631836 ms]
+[Process return code sao bindata#.: 0]
+
+[Time measured SUM up: 376745.07689476013 ms]
+[Time measured Mean: 12558.169229825338 ms]
+[Process return code JPG 2 Workload.: 0]
+
+[Time measured SUM up: 687087.7842903137 ms]
+[Time measured Mean: 22902.926143010456 ms]
+[Process return code JPG  1 Workload.: 0]
+
+[Time measured SUM up: 4705964.018106461 ms]
+[Time measured Mean: 156865.46727021536 ms]
+[Process return code Blender big 807mb.: 0]
+
+[Time measured SUM up: 302274.94406700134 ms]
+[Time measured Mean: 10075.831468900045 ms]
+[Process return code mp4.: 0]
+
+[Time measured SUM up: 241705.58786392212 ms]
+[Time measured Mean: 8056.852928797404 ms]
+[Process return code mp3.: 0]
+
+[Time measured SUM up: 37348.42014312744 ms]
+[Time measured Mean: 1244.947338104248 ms]
+[Process return code oo ofice exe.: 0]
+
+[Time measured SUM up: 559483.3500385284 ms]
+[Time measured Mean: 18649.445001284283 ms]
+[Process return code JPG 3 Workload.: 0]
+
+[Time measured SUM up: 357754.2300224304 ms]
+[Time measured Mean: 11925.14100074768 ms]
+[Process return code Mozilla exe.: 0]
+
+[Time measured SUM up: 100492.8252696991 ms]
+[Time measured Mean: 3349.760842323303 ms]
+[Process return code Database.: 0]
+
+[Time measured SUM up: 5866.177558898926 ms]
+[Time measured Mean: 195.53925196329752 ms]
+[Process return code PNG.: 0]
+
+[Time measured SUM up: 54416.01538658142 ms]
+[Time measured Mean: 1813.867179552714 ms]
+[Process return code Dickens txt.: 0]
+
+[Time measured SUM up: 209573.6165046692 ms]
+[Time measured Mean: 6985.787216822307 ms]
+[Process return code html.: 0]
+
+[Time measured SUM up: 26635.4341506958 ms]
+[Time measured Mean: 887.8478050231934 ms]
+[Process return code reymont pdf.: 0]
+
+[Time measured SUM up: 48465.08240699768 ms]
+[Time measured Mean: 1615.5027468999226 ms]
+[Process return code mr Picture.: 0]
+
+[Time measured SUM up: 550260.0290775299 ms]
+[Time measured Mean: 18342.000969250996 ms]
+[Process return code mp4 repeating.: 0]
+

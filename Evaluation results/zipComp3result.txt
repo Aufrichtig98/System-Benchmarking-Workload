@@ -1,0 +1,80 @@
+[Time measured SUM up: 314.044713973999 ms]
+[Time measured Mean: 10.468157132466635 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression2/zip/samba srcCompression: 0]
+
+[Time measured SUM up: 739.2218112945557 ms]
+[Time measured Mean: 24.640727043151855 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression2/zip/mp3 repeatingCompression: 0]
+
+[Time measured SUM up: 290.06099700927734 ms]
+[Time measured Mean: 9.668699900309244 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/xrayCompression: 0]
+
+[Time measured SUM up: 377.316951751709 ms]
+[Time measured Mean: 12.577231725056967 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/sao bindata#Compression: 0]
+
+[Time measured SUM up: 7357.180595397949 ms]
+[Time measured Mean: 245.23935317993164 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/JPG 2 WorkloadCompression: 0]
+
+[Time measured SUM up: 3199.924945831299 ms]
+[Time measured Mean: 106.66416486104329 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/JPG  1 WorkloadCompression: 0]
+
+[Time measured SUM up: 25279.701709747314 ms]
+[Time measured Mean: 842.6567236582438 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/Blender big 807mbCompression: 0]
+
+[Time measured SUM up: 4757.642507553101 ms]
+[Time measured Mean: 158.58808358510336 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/mp4Compression: 0]
+
+[Time measured SUM up: 771.2202072143555 ms]
+[Time measured Mean: 25.707340240478516 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/mp3Compression: 0]
+
+[Time measured SUM up: 201.9021511077881 ms]
+[Time measured Mean: 6.7300717035929365 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/oo ofice exeCompression: 0]
+
+[Time measured SUM up: 3.771543502807617 ms]
+[Time measured Mean: 0.1257181167602539 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/System Volume InformationCompression: 0]
+
+[Time measured SUM up: 11041.69249534607 ms]
+[Time measured Mean: 368.05641651153564 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/JPG 3 WorkloadCompression: 0]
+
+[Time measured SUM up: 1295.053243637085 ms]
+[Time measured Mean: 43.168441454569496 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/Mozilla exeCompression: 0]
+
+[Time measured SUM up: 582.3447704315186 ms]
+[Time measured Mean: 19.411492347717285 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/DatabaseCompression: 0]
+
+[Time measured SUM up: 51.95450782775879 ms]
+[Time measured Mean: 1.7318169275919597 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/PNGCompression: 0]
+
+[Time measured SUM up: 318.90153884887695 ms]
+[Time measured Mean: 10.630051294962565 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/Dickens txtCompression: 0]
+
+[Time measured SUM up: 993.5429096221924 ms]
+[Time measured Mean: 33.11809698740641 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/htmlCompression: 0]
+
+[Time measured SUM up: 190.6445026397705 ms]
+[Time measured Mean: 6.354816754659017 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/reymont pdfCompression: 0]
+
+[Time measured SUM up: 245.85700035095215 ms]
+[Time measured Mean: 8.195233345031738 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/mr PictureCompression: 0]
+
+[Time measured SUM up: 1996.54221534729 ms]
+[Time measured Mean: 66.551407178243 ms]
+[Process return code /scratch/messerig/System-Benchmarking-Workloads/result/compression3/zip/mp4 repeatingCompression: 0]
+
